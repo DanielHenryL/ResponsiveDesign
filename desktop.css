@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.routes-images{
+    width: 40rem;
+    padding: 0 2rem;
+    border-right: 0.1rem solid black;
+}
+.content h2{
+    padding: 0 4rem;
+    margin-bottom: 2rem;
+    font-size: 1.8rem;
+    text-align: start;
+}
